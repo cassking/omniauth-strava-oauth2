@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OmniAuth Strava
 
 This is the official OmniAuth strategy for authenticating to GitHub. To
@@ -45,3 +46,6 @@ More info on [Scopes](http://strava.github.io/api/v3/oauth/).
 ## License
 
 Add license here.
+=======
+# omniauth-strava-oauth2
+>>>>>>> 60c521e22f6b84cd20187b970ab0af6de2c17fdb
