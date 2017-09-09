@@ -1,0 +1,1 @@
+# omniauth-strava-oauth2
