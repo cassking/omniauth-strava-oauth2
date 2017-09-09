@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 # OmniAuth Strava
 
 This is the official OmniAuth strategy for authenticating to GitHub. To
 use it, you'll need to sign up for an OAuth2 Application ID and Secret
 on the [Strava Applications Page](https://strava.com/developers).
+
+Forked from rubygems.
 
 ## Basic Usage
 
@@ -43,9 +44,3 @@ Here is an example Auth Hash in `request.env['omniauth.auth']`
 
 More info on [Scopes](http://strava.github.io/api/v3/oauth/).
 
-## License
-
-Add license here.
-=======
-# omniauth-strava-oauth2
->>>>>>> 60c521e22f6b84cd20187b970ab0af6de2c17fdb
